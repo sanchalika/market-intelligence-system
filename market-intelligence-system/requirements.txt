@@ -1,0 +1,13 @@
+snscrape
+pandas
+pyarrow
+scikit-learn
+sentence-transformers
+faiss-cpu
+fastapi
+uvicorn
+streamlit
+altair
+structlog
+indic-nlp-library
+langdetect
